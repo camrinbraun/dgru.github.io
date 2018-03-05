@@ -5,10 +5,10 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-halexand: # replace this with your info
-  name: "Harriet Alexander"
-  siterole: "Oceanographer, Bioinformatician"
-  uri: https://github.com/halexand
-  email: harriet.xander@gmail.com
-  twitter: "@nekton4plankton"
+camrinbraun: # replace this with your info
+  name: "Camrin Braun"
+  siterole: "Oceanographer"
+  uri: https://github.com/camrinbraun
+  email: camrin.braun@gmail.com
+  twitter: "@braunianmotion"
 # you can add more authors here
