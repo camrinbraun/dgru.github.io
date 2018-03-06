@@ -1,2 +1,2 @@
 # code for personal website
-website: https://dgru.github.io/
+website: https://camrinbraun.github.io/
