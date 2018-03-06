@@ -8,24 +8,24 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Harriet Alexander"
+title: "Camrin Braun"
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "PhD Biological Oceanography"
+slogan: "Oceanographer, Student, Explorer"
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "I am a Postdoctoral Research Scientist at the Lamont-Doherty Earth Observatory with a passion for marine microbes, big datasets, and windsurfing."
+description: "I am a PhD candidate in the MIT-WHOI Joint Program in Oceanography with a passion for exploring the biology and phyics of the ocean."
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: halexand
+author: camrinbraun
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: "https://halexand.github.io"
+url: "https://camrinbraun.github.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content
@@ -37,7 +37,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: "http://halexand.github.io/images/"
+urlimg: "http://camrinbraun.github.io/images/"
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -108,7 +108,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: halexand     # Default author for pages
+      author: camrinbraun     # Default author for pages
   -
     scope:
       path: ''
@@ -117,7 +117,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: halexand     # Default author for posts
+      author: camrinbraun     # Default author for posts
 
 
 
@@ -139,9 +139,9 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             'https://plus.google.com/u/0/118311555303973066167'
-google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
+#google_author:             'https://plus.google.com/u/0/118311555303973066167'
+#google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+#bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 # alexa_verify_id:         ''
 
 
@@ -188,9 +188,9 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: nekton4plankton
-    github: halexand
-    instagram: nekton4plankton
+    twitter: braunianmotion
+    github: camrinbraun
+    #instagram: nekton4plankton
 
 
 #        ____  _
@@ -202,7 +202,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: harrietalexander
+#disqus_shortname: harrietalexander
 
 
 #      _____
@@ -226,7 +226,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-65421302-1
+#google_analytics_tracking_id: UA-65421302-1
 
 
 

@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "About"
 show_meta: false
-teaser: Currently I am a Postdoctoral Fellow in Titus Brown's <a href="http://ivory.idyll.org/lab/">Lab for Data Intensive Biology</a> at UC Davis. I hold a PhD in Biological Oceanography from the Massachusetts Institute of Technology (<a href="http://www.mit.edu/">MIT</a>) & Woods Hole Oceanographic Institution (<a href="http://www.whoi.edu/">WHOI</a>) <a href="https://mit.whoi.edu/">Joint Program</a> .
+teaser: Currently I am a PhD Candidate in the Joint Program in Oceanography at the Massachusetts Institute of Technology and Woods Hole Oceanographic Institution.
 permalink: "/about/"
 header:
     image_fullwidth: "headers/Mountain.jpg"
@@ -10,25 +10,11 @@ header:
 
 <div class="row">
   <div class="medium-7 columns">
-My research focuses on understanding the biogeochemical functioning and physiological ecology of eukaryotic phytoplankton in a changing ocean. In particular, I am interested in the maintenance of genetic diversity in these populations and the role of biodiversity in ecosystem functioning. I use a combination of culture- and field-based experiments and 'omic techniques to address these questions.<br>
-More generally, I am interested in open science, data visualization, the management and utilization (namely, sharing) of large data sets, and the improvement of computational tools and resources for scientists. Along these lines, I am a instructor for <a href="http://www.software-carpentry.org/">Software Carpentry</a>.
+Camrin is fascinated by fish, and a childhood obsession with fresh and saltwater fishing has manifested itself into a career. In 2010, he joined a team of experts who employ cutting edge tagging technologies to understand the ecology of the world’s most important fishes. Since, he has been elected a National Geographic Young Explorer and been inducted into the Explorer’s Club. His expeditions have ranged from sailing the remote Pacific to understand coral reefs to tagging sharks in Sudan. In 2012, Camrin moved to Saudi Arabia to pursue a master’s degree in marine science where he used animal tagging to study manta rays in the Red Sea. He is now pursuing his PhD in the MIT/WHOI Joint Program in Oceanography where he explores the relationship between the movements of pelagic fishes and their ocean environment. He hopes this work will directly improve management of these important fish populations and keep them in our ocean for future generations to enjoy.
     </div>
   <div class="medium-5 columns">
   
-  <img src="https://github.com/halexand/halexand.github.io/blob/master/images/Profile1.jpg?raw=true" alt="">
+  <img src="https://github.com/camrinbraun/camrinbraun.github.io/blob/master/images/profile.jpg?raw=true" alt="">
     </div>
 </div>
 
-
-
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-65421302-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
