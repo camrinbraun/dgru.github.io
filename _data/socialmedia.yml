@@ -1,17 +1,17 @@
 - name: Twitter
-  url: http://twitter.com/nekton4plankton
+  url: http://twitter.com/braunianmotion
   class: icon-twitter
   title: "Follow me on Twitter"
 
 - name: GitHub
-  url: http://github.com/halexand
+  url: http://github.com/camrinbraun
   class: icon-github
-  title: Code und mehr...
+  title: Code and stuff...
 
-- name: Instagram
-  url: http://instagram.com/nekton4plankton
-  class: icon-instagram
-  title: "See what I see"
+#- name: Instagram
+#  url: http://instagram.com/nekton4plankton
+#  class: icon-instagram
+#  title: "See what I see"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
